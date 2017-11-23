@@ -8,4 +8,3 @@
 -l : 1 means Print "A-Z" in the upper left corner, others are False. Default false
 for example:
 >python chr-ROC.py -f chr -t pdf -r 2 -c 1 -i NFC.csv,NFC.csv -l 1
-
